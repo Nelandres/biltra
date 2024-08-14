@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/biltra/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/biltra/static/js/main.ee201a09.chunk.js",
+    "main.js.map": "/biltra/static/js/main.ee201a09.chunk.js.map",
+    "runtime-main.js": "/biltra/static/js/runtime-main.a663d4ba.js",
+    "runtime-main.js.map": "/biltra/static/js/runtime-main.a663d4ba.js.map",
+    "static/js/2.a357cf17.chunk.js": "/biltra/static/js/2.a357cf17.chunk.js",
+    "static/js/2.a357cf17.chunk.js.map": "/biltra/static/js/2.a357cf17.chunk.js.map",
+    "index.html": "/biltra/index.html",
+    "precache-manifest.fb79a52dc4ba3970f1866490ae4cb02a.js": "/biltra/precache-manifest.fb79a52dc4ba3970f1866490ae4cb02a.js",
+    "service-worker.js": "/biltra/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/biltra/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a357cf17.chunk.js.LICENSE.txt": "/biltra/static/js/2.a357cf17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a663d4ba.js",
+    "static/js/2.a357cf17.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ee201a09.chunk.js"
+  ]
+}
